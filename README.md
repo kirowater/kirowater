@@ -15,6 +15,7 @@
 - **[parsec](https://github.com/kirowater/parsec)** - parsec - ESP Overlay Without Fuser
 - **[drvscan-loader](https://github.com/kirowater/drvscan-loader)** - drvscan loader - Pcie Scanner Loader
 - **[MELivesplit](https://github.com/kirowater/MELivesplit)** - livesplit overlay - Mirror's Edge Livesplit Overlay
+- **[kiro-solution-cheat](https://github.com/kirowater/kiro-solution-cheat)** - kirosolutions cheat - External DMA Cheat for Fortnite
 
 # unreleased stuff
 - **[kiro-solutions](https://github.com/kirowater/kirosolutions)** - kirosolutionsSRC - External DMA Cheat for Fortnite
